@@ -6,7 +6,9 @@ I modified the demo.py file only and used the same sources for deep learning.
 If there is a problem, I will delete it.
 
 
-The Background and Necessity of Works: With the recent development of ICT Device using Deep Learning, it has become an indispensable technology. In a world full of information and trends, we need to identify the needs of our customers rather than the passive advertising system. I felt it.
+The Background and Necessity of Works: With the recent development of ICT Device using Deep Learning, it has become an indispensable technology. 
+In a world full of information and trends, we need to identify the needs of our customers rather than the passive advertising system. 
+I felt it.
 
 Characteristic: It recognizes a person's face, identifies their age and gender, and provides customized advertisements by age group/sex.
 
